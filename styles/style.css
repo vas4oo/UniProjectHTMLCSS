@@ -1,0 +1,36 @@
+body{
+    background-color: #e6e6e6;
+}
+
+.bar-container{
+    background-color: white;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bar-item .counter{
+    font-size: 26px;
+    line-height: 26px;
+}
+
+.bar-item .desc{
+    line-height: 18px;
+}
+
+.icon-container{
+    font-size: 30px;
+    color: #bdbdbd;
+    margin-right: 15px;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.title{
+    font-size: 28px;
+    color:#58b768;
+    border-bottom: 3px solid #58b768;
+}
